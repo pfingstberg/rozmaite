@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" modified="2022-02-08T19:17:26.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/16.4.0 Chrome/96.0.4664.110 Electron/16.0.7 Safari/537.36" etag="jTROfqCHI4DqUEPGdbmC" version="16.4.0" type="device">
+  <diagram id="aqW-f84IvznjN_AsC4PL" name="system-landscape">
+    <mxGraphModel dx="1422" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Engineering&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="20" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Accounting and Finance&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="230" y="20" width="690" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-5" value="&lt;div&gt;&lt;b&gt;Team Centre&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Type: PLM&lt;/div&gt;&lt;div&gt;Company: Siemens&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="40" y="72" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Business Intelligence&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="250" y="430" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-11" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Cognos&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: BI&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: IBM&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="280" y="590" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Human Resources&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="10" y="430" width="180" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-14" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;CityRay China HR&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: HR&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: CityRay&lt;/div&gt;&lt;div&gt;Scope: HMI China&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="40" y="585" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-20" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Navision&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: ERP&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: Microsoft&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="404" y="72" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-22" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Medius Flow&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: AP&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Medius&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="530" y="32" width="140" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-24" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Power BI&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: BI&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Microsoft&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="255" y="470" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-25" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Sage People&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: HR&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Sage&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="15" y="459" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="15" y="218.75" width="1140" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-27" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Salesforce&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: CRM&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Salesforce&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="210" y="251.25" width="166" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-28" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Service Max&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: After Sales&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: ServiceMax&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="370" y="251.25" width="190" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-29" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;CPQ&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: AP&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Oracle&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="560" y="251.25" width="166" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-30" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Service Cloud&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: Customer Support&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Salesforce&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="720" y="251.25" width="200" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-31" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;E-Commerce&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="940" y="20" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-32" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;SAP Commerce (Hybris)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: eComm&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: SAP&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="930" y="27.5" width="220" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Corporate&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="717" y="430" width="178" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-35" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;SharePoint&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: CMS&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Microsoft&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="715" y="488" width="180" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-36" value="&lt;div&gt;&lt;b&gt;ERP LX&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Type: ERP&lt;/div&gt;&lt;div&gt;Company: Infor&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="240" y="72" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-37" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Hyperion&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: Finance&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Oracle&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="655" y="32" width="146" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-38" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;b&gt;Sitecore&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Type: CMS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Sitecore&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="910" y="250" width="200" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-40" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ITSM, Network &amp;amp; Security&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="480" y="430" width="180" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-41" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;SNOW&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: Asset Mgmt&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: Snow&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="510" y="620" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-42" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;ServiceNow&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: IT support&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: ServiceNow&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="485" y="490" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-43" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Sophos&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: Anti-virus&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: Sophos&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="510" y="700" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-44" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Creative Cloud&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: CMS/UX&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Adobe&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="710" y="601.5" width="180" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-46" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Formtastic&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: Doc Mgmt&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: IBM&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="745" y="729" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-47" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Saba Cloud&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: LMS&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Saba&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="10" y="655" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-48" value="&lt;b&gt;HRDB&lt;/b&gt;&lt;br&gt;Type: HR&lt;br&gt;Company: HMI&lt;br&gt;Scope: HMI Global" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;align=left;strokeColor=#82b366;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="45" y="780" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-49" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Thales&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: License Mgmt&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Thales&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="716" y="792.5" width="180" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-50" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Nintex&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: Workflow&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Company: Nintex&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="715" y="910" width="180" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-51" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Manufacturing&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="960" y="430" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-52" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;SFM&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: MES&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: HMI&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="990" y="485.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFdMAr-k6PUAFgtLLoM-55" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Bizagi&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: BPM&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: Bizagi&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="746" y="1040" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7X9C_Ixkbvy9za4U-FGk-7" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Qualys Gaurd&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: Security&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: Qualys&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="510" y="780" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7X9C_Ixkbvy9za4U-FGk-8" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Avacto&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: Security&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: Avecto&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="510" y="860" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7X9C_Ixkbvy9za4U-FGk-9" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Forti Client&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: Gateway/VPN&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: Fortinet&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="510" y="940" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="" tooltip="Item Master&#xa;Bill of Materials" id="7X9C_Ixkbvy9za4U-FGk-16">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-5" target="8IFdMAr-k6PUAFgtLLoM-36" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="210" y="130" as="sourcePoint" />
+              <mxPoint x="260" y="80" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="CBLQtI52NJhTgE0I4OYq-2" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.482;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-27" target="8IFdMAr-k6PUAFgtLLoM-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="sourcePoint" />
+            <mxPoint x="690" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="400" />
+              <mxPoint x="460" y="400" />
+              <mxPoint x="651" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" tooltip="Item Master&#xa;Bill of Materials" id="CBLQtI52NJhTgE0I4OYq-4">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="99" y="160" as="sourcePoint" />
+              <mxPoint x="457" y="142" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="99" y="200" />
+                <mxPoint x="457" y="200" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Sales Order&#xa;Shipment&#xa;" id="CBLQtI52NJhTgE0I4OYq-5">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.6;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-36" target="8IFdMAr-k6PUAFgtLLoM-32" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="330" y="146" as="sourcePoint" />
+              <mxPoint x="1050" y="160" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="330" y="180" />
+                <mxPoint x="330" y="190" />
+                <mxPoint x="760" y="190" />
+                <mxPoint x="1050" y="190" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Sales Order" id="CBLQtI52NJhTgE0I4OYq-6">
+          <mxCell style="endArrow=classic;html=1;exitX=0.31;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-32" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="866" y="180" as="sourcePoint" />
+              <mxPoint x="480" y="140" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="998" y="180" />
+                <mxPoint x="480" y="180" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Training Class " id="CBLQtI52NJhTgE0I4OYq-8">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-28" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="600" y="300" as="sourcePoint" />
+              <mxPoint x="1086" y="140" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="446" y="210" />
+                <mxPoint x="1086" y="210" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Sales Order&#xa;Inventory Sync&#xa;Item Master&#xa;Parts Pricing&#xa;Billing Invoice&#xa;Shipment&#xa;Bill of Materials&#xa;Install Order Sync&#xa;Credit By Pass&#xa;WorkOrder sync&#xa;" id="CBLQtI52NJhTgE0I4OYq-10">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.413;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="8IFdMAr-k6PUAFgtLLoM-36" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="420" y="270" as="sourcePoint" />
+              <mxPoint x="300" y="150" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="420" y="210" />
+                <mxPoint x="302" y="210" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="LMS Training Records" id="CBLQtI52NJhTgE0I4OYq-11">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.96;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-47" target="8IFdMAr-k6PUAFgtLLoM-25" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="180" y="720" as="sourcePoint" />
+              <mxPoint x="260" y="670" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="220" y="732" />
+                <mxPoint x="220" y="630" />
+                <mxPoint x="220" y="519" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="2Bh465-gLXEV9F_nRMoM-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CBLQtI52NJhTgE0I4OYq-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.4507" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" tooltip="Insert/update Employee Records&#xa;Email Update&#xa;Termination Employee Records&#xa;" id="CBLQtI52NJhTgE0I4OYq-13">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.952;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-14" target="8IFdMAr-k6PUAFgtLLoM-25" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="540" y="520" as="sourcePoint" />
+              <mxPoint x="590" y="470" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="210" y="620" />
+                <mxPoint x="210" y="532" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Receive Delivery&#xa;Production Reciever&#xa;Production Order&#xa;Inventory Adjustment&#xa;Item Master&#xa;Inventory Sync&#xa;Sales Order&#xa;Shipping&#xa;Billing Invoice&#xa;Purchase Order&#xa;Forecast&#xa;Facility Planning&#xa;Bill of Resources&#xa;Bill of Materials&#xa;Supplier Master&#xa;Code Definition" id="CBLQtI52NJhTgE0I4OYq-15">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.926;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-52" target="8IFdMAr-k6PUAFgtLLoM-36" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="540" y="350" as="sourcePoint" />
+              <mxPoint x="377" y="150" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="1050" y="410" />
+                <mxPoint x="380" y="410" />
+                <mxPoint x="380" y="230" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="xbsYkQitJxnsfNle7_uQ-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CBLQtI52NJhTgE0I4OYq-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.8272" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" tooltip="Customer Master&#xa;Quote" id="CBLQtI52NJhTgE0I4OYq-16">
+          <mxCell style="endArrow=classic;html=1;exitX=0.482;exitY=0.086;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.333;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-27" target="8IFdMAr-k6PUAFgtLLoM-36" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="310" y="260" as="sourcePoint" />
+              <mxPoint x="290" y="150" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="SNOW Pims Tasks to Sharepoint" id="CBLQtI52NJhTgE0I4OYq-17">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;entryX=0.931;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-35" target="8IFdMAr-k6PUAFgtLLoM-42" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="720" y="500" as="sourcePoint" />
+              <mxPoint x="590" y="540" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="680" y="539" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Employee Sync&#xa;Email UPN Update&#xa;" id="CBLQtI52NJhTgE0I4OYq-18">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;exitX=0.995;exitY=0.612;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.905;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-48" target="8IFdMAr-k6PUAFgtLLoM-25" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="540" y="730" as="sourcePoint" />
+              <mxPoint x="590" y="680" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="230" y="853" />
+                <mxPoint x="230" y="680" />
+                <mxPoint x="230" y="507" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Supplier Invoice&#xa;Supplier Master&#xa;Exchange Rate&#xa;Chart of Accounts&#xa;Code Definition" id="CBLQtI52NJhTgE0I4OYq-19">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="340" y="141" as="sourcePoint" />
+              <mxPoint x="610" y="151" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="340" y="200" />
+                <mxPoint x="610" y="200" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Resource Master" id="CBLQtI52NJhTgE0I4OYq-20">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-27" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="540" y="320" as="sourcePoint" />
+              <mxPoint x="430" y="140" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="314" y="230" />
+                <mxPoint x="430" y="230" />
+                <mxPoint x="430" y="180" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="PO5EgDS8432rB1Lk0YQl-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="960" y="610" width="179" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="PO5EgDS8432rB1Lk0YQl-2" value="&lt;div&gt;&lt;b&gt;Service CRM&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: Service CRM&lt;/div&gt;&lt;div&gt;Scope: HMI China&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="984.5" y="660" width="140.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PO5EgDS8432rB1Lk0YQl-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;China Local Apps&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="980" y="620" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PO5EgDS8432rB1Lk0YQl-4" value="&lt;div&gt;&lt;b&gt;EQ&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: EQuotation&lt;/div&gt;&lt;div&gt;Scope: HMI China&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="989.5" y="750" width="130.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PO5EgDS8432rB1Lk0YQl-5" value="&lt;div&gt;&lt;b&gt;BPM&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: BPM&lt;/div&gt;&lt;div&gt;Scope: HMI China&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="990" y="830" width="130.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PO5EgDS8432rB1Lk0YQl-6" value="&lt;div&gt;&lt;b&gt;ARS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: ARS&lt;/div&gt;&lt;div&gt;Scope: HMI China&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="990" y="910" width="130.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PO5EgDS8432rB1Lk0YQl-7" value="&lt;div&gt;&lt;b&gt;Baiwang&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: Baiwang&lt;/div&gt;&lt;div&gt;Scope: HMI China&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="990" y="1000" width="130.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PO5EgDS8432rB1Lk0YQl-8" value="&lt;div&gt;&lt;b&gt;SCM&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: SCM&lt;/div&gt;&lt;div&gt;Scope: HMI China&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="989.5" y="1090" width="130.5" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="" tooltip="Bill of Materials&#xa;Inventory&#xa;Item Master&#xa;Sales Order&#xa;Shipping" id="PO5EgDS8432rB1Lk0YQl-9">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;strokeColor=#B85450;entryX=0.195;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="8IFdMAr-k6PUAFgtLLoM-36" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="989.5" y="701.3999633789062" as="sourcePoint" />
+              <mxPoint x="285.5" y="142" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="939.5" y="701" />
+                <mxPoint x="939.5" y="419" />
+                <mxPoint x="219.5" y="419" />
+                <mxPoint x="219.5" y="249" />
+                <mxPoint x="219.5" y="209" />
+                <mxPoint x="269.5" y="209" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Sales Order&#xa;Shipment" id="PO5EgDS8432rB1Lk0YQl-10">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;strokeColor=#B85450;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" target="8IFdMAr-k6PUAFgtLLoM-36" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="990" y="790" as="sourcePoint" />
+              <mxPoint x="298" y="140" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="950" y="790" />
+                <mxPoint x="950" y="430" />
+                <mxPoint x="230" y="430" />
+                <mxPoint x="230" y="260" />
+                <mxPoint x="230" y="210" />
+                <mxPoint x="278" y="210" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="HMQ - Expense Invoice&#xa;Serene - Expense Invoice&#xa;Inventory Adjustment" id="PO5EgDS8432rB1Lk0YQl-11">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;strokeColor=#B85450;entryX=0.083;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PO5EgDS8432rB1Lk0YQl-5" target="8IFdMAr-k6PUAFgtLLoM-36" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="1000" y="800" as="sourcePoint" />
+              <mxPoint x="280" y="150" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="950" y="865" />
+                <mxPoint x="950" y="410" />
+                <mxPoint x="210" y="410" />
+                <mxPoint x="210" y="230" />
+                <mxPoint x="252" y="230" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Account Receivables (Invoices)&#xa;Billing Invoices" id="PO5EgDS8432rB1Lk0YQl-12">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;strokeColor=#B85450;entryX=0.138;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="8IFdMAr-k6PUAFgtLLoM-36" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="988" y="950" as="sourcePoint" />
+              <mxPoint x="280.78999999999996" y="152.21000000000004" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="940" y="950" />
+                <mxPoint x="940" y="430" />
+                <mxPoint x="220" y="420" />
+                <mxPoint x="220" y="190" />
+                <mxPoint x="261" y="190" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Supplier Invoice&#xa;Receive Delivery&#xa;Purchase Order" id="PO5EgDS8432rB1Lk0YQl-13">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;strokeColor=#B85450;" parent="1" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="990" y="1040" as="sourcePoint" />
+              <mxPoint x="367" y="140" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="950" y="1040" />
+                <mxPoint x="950" y="390" />
+                <mxPoint x="370" y="390" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tooltip="Supplier Invoice&#xa;Receive Delivery&#xa;Purchase Order" id="PO5EgDS8432rB1Lk0YQl-14">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;strokeColor=#B85450;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" target="8IFdMAr-k6PUAFgtLLoM-36" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="990" y="1140" as="sourcePoint" />
+              <mxPoint x="390" y="150" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="950" y="1140" />
+                <mxPoint x="960" y="400" />
+                <mxPoint x="380" y="400" />
+                <mxPoint x="380" y="220" />
+                <mxPoint x="353" y="220" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="PO5EgDS8432rB1Lk0YQl-15" value="&lt;div&gt;&lt;b&gt;QDAS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Type: Finance&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Company: QDAS&lt;/div&gt;&lt;div&gt;Scope: HMI Global&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="800" y="72" width="110" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="" tooltip="Account Receivables (Invoices)" id="PO5EgDS8432rB1Lk0YQl-18">
+          <mxCell style="endArrow=classic;startArrow=classic;html=1;strokeColor=#B85450;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8IFdMAr-k6PUAFgtLLoM-36" edge="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="860" y="200" as="sourcePoint" />
+              <mxPoint x="860" y="140" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="315" y="210" />
+                <mxPoint x="580" y="210" />
+                <mxPoint x="860" y="210" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="Lf7JF0K43s2OYqtcef4d-2" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Pardot&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Type: Marketing&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Company: Salesforce&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Scope: HMI Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="17" y="251.25" width="166" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="o8__580jZk4CTetgwQWF-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Cloud (SaaS)&lt;/b&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="15" y="960" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o8__580jZk4CTetgwQWF-2" value="&lt;div&gt;&lt;b&gt;On-Prem / PaaS&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="45" y="1100" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
